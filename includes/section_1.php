@@ -11,8 +11,8 @@
         </div>
 
         <div class="container" id="images">
-            <a href="includes/section_2.html" id="ajax-page"><img src="assets/images/gift.png" alt="gift-box-1" data-target="section_2"></a>
-            <a href="includes/section_2.html"><img src="assets/images/gift.png" alt="gift-box-1"  data-target="section_2"></a>
-            <a href="includes/section_2.html"><img src="assets/images/gift.png" alt="gift-box-1"  data-target="section_2"></a>
+            <a href="includes/section_2.html" id="ajax-page"><img src="../assets/images/gift.png" alt="gift-box-1" data-target="section_2"></a>
+            <a href="includes/section_2.html"><img src="../assets/images/gift.png" alt="gift-box-1"  data-target="section_2"></a>
+            <a href="includes/section_2.html"><img src="../ assets/images/gift.png" alt="gift-box-1"  data-target="section_2"></a>
         </div>
     </div>';
